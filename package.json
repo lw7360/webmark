@@ -1,0 +1,32 @@
+{
+  "name": "webmark",
+  "version": "1.0.0",
+  "description": "Keep your place on the web.",
+  "main": "js/main.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lw7360/webmark.git"
+  },
+  "author": "Larry Wu <lw7360@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lw7360/webmark/issues"
+  },
+  "homepage": "https://github.com/lw7360/webmark",
+  "devDependencies": {
+    "babel-core": "^5.6.17",
+    "babel-eslint": "^3.1.23",
+    "babel-loader": "^5.3.1",
+    "css-loader": "^0.15.2",
+    "eslint": "^0.24.1",
+    "node-libs-browser": "^0.5.2",
+    "style-loader": "^0.12.3",
+    "webpack": "^1.10.1"
+  },
+  "dependencies": {
+    "react": "^0.13.3"
+  }
+}
